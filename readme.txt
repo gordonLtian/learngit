@@ -5,4 +5,5 @@ Git is a free software.
 Git has a mutable index called stage.
 Git tracks changes.Git tracks changes.
 Creating a new branch is quick and simple.
-add merge....
+add merge...
+learn stash--储藏当前分支
