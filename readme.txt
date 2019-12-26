@@ -7,3 +7,4 @@ Git tracks changes.Git tracks changes.
 Creating a new branch is quick and simple.
 add merge...
 learn stash--储藏当前分支
+测试增加增加
